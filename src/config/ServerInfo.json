@@ -1,0 +1,8 @@
+{
+    "env": "test",
+    "apiUrls": {
+        "dev": "http:\/\/localhost:9966\/api",
+        "test": "http:\/\/ctoeyes.cn:9966\/api",
+        "prod": "http:\/\/172.18.0.4:9966\/api"
+    }
+}
