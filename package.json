@@ -13,7 +13,7 @@
     "@material-ui/core": "latest",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.46",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clsx": "latest",
     "deepmerge": "^4.2.2",
     "history": "^4.10.1",
